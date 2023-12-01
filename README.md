@@ -6,7 +6,7 @@ test11/30
  * italic
 
    ** bold
-   ~~~
+---
 
    ``code block``
 
